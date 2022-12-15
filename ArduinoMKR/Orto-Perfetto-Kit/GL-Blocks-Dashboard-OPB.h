@@ -1,6 +1,5 @@
 /****
- * GL Blocks
- * Air Data Challenge - TassoniAir Data Challenge
+ * GL Blocks Dashboard
  * Green Lab - Future Education Modena 2022
  */
  
