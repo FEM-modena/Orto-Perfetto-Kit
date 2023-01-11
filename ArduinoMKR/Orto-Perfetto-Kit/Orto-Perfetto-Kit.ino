@@ -12,8 +12,7 @@
 ///// NON SPOSTARE QUESTE DEFINIZIONI  /////
 //*******************************************
 #define SECRET_SSID "FEM_WiFi"
-//#define SECRET_PASS "wifipassword"
-#define SECRET_PASS "0h4orXc@yS3do"
+#define SECRET_PASS "wifipassword"
 #define CHIAVE_CLOUD "FEMOrtoPerfetto_token"
 
 char dboard_server[] = "demo.thingsboard.io"; // Indirizzo IP/Internet del Dashboard Server
